@@ -1,5 +1,5 @@
 h1 {
-    color: white;
+    color:#f1faee;
 }
 
 /* * {
@@ -7,7 +7,7 @@ h1 {
 } */
 
 .header{
-    background-color: cadetblue;
+    background-color: #457b9d;
     display: flex;
     justify-content: space-between;
 }
@@ -31,4 +31,10 @@ h1 {
 
 p,h2{
     text-align: center;
+    background-color:#457b9d;
+    color:#f1faee;
+}
+
+body{
+background-color: #1d3557;  
 }
